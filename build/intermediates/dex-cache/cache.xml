@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hussan/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/hussan/android/codelab1-android/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0_2c5801922d0b58b8a533191f19ce7da3f700a460.jar" />
+    </item>
+    <item
+        jar="/Users/hussan/android/codelab1-android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/Users/hussan/android/codelab1-android/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.1.1_b687d470c7b619b61878b34a0a79ce1191c5ede9.jar" />
+    </item>
+    <item
+        jar="/Users/hussan/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/hussan/android/codelab1-android/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_b33b4e9509628f60da30cc1a28e47dc938eafa88.jar" />
+    </item>
+    <item
+        jar="/Users/hussan/android/codelab1-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/hussan/android/codelab1-android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_dc32580c1cd6af9984e6e647c694a989f5e83f5a.jar" />
+    </item>
+    <item
+        jar="/Users/hussan/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/hussan/android/codelab1-android/app/build/intermediates/pre-dexed/debug/gson-2.3.1_3e821f11335873e7e8de298391ed25e42624fc68.jar" />
+    </item>
+    <item
+        jar="/Users/hussan/android/codelab1-android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/hussan/android/codelab1-android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_a0884920ca4839f506f390cee62066ff2f453d2a.jar" />
+    </item>
+    <item
+        jar="/Users/hussan/android/codelab1-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/hussan/android/codelab1-android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_5eecde139a723d844e3e28220923530544c91226.jar" />
+    </item>
+    <item
+        jar="/Users/hussan/android/codelab1-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/hussan/android/codelab1-android/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_b0c2bd1de74c6fd5ec64236febfe303fd13d6569.jar" />
+    </item>
+    <item
+        jar="/Users/hussan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/hussan/android/codelab1-android/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_1a679933b5cf38c0209312dd7c48943b7d19eeb3.jar" />
+    </item>
+
+</items>
